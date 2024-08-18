@@ -25,8 +25,8 @@ http://192.168.1.50:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599
 http://192.168.1.50:6878/ace/manifest.m3u8?id=7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/dazn3.png" tvg-id="dazn-channel3" group-title="Ace Stream", tvg-name="dazn-channel3",dazn-channel3
 http://192.168.1.50:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/dazn4.png" tvg-id="dazn-channel4" group-title="Ace Stream", tvg-name="dazn-channel4",dazn-channel4
-http://192.168.1.50:6878/ace/manifest.m3u8?id=e454681a152a86da504e63694f17f90d0586867d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="daznc4" group-title="Ace Stream", tvg-name="daznc4",daznc4
+http://192.168.1.50:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/daznf1.png" tvg-id="dazn-channel-f1" group-title="Ace Stream", tvg-name="dazn-channel-f1",dazn-channel-f1
 http://192.168.1.50:6878/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/daznf1.png" tvg-id="dazn-channel-f1-o2" group-title="Ace Stream", tvg-name="dazn-channel-f1-o2",dazn-channel-f1-o2
