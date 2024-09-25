@@ -73,8 +73,8 @@ http://192.168.1.50:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858
 http://192.168.1.50:6878/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="plus-2" group-title="Ace Stream", tvg-name="plus-2",plus-2
 http://192.168.1.50:6878/ace/manifest.m3u8?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/deportes.png" tvg-id="deportes-1" group-title="Ace Stream", tvg-name="deportes-1",deportes-1
-http://192.168.1.50:6878/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/deportes.png" tvg-id="deportes1-ch" group-title="Ace Stream", tvg-name="deportes1-ch",deportes1-ch
+http://192.168.1.50:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/deportes.png" tvg-id="deportes2" group-title="Ace Stream", tvg-name="deportes2",deportes2
 http://192.168.1.50:6878/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/deportes.png" tvg-id="deportes-3" group-title="Ace Stream", tvg-name="deportes-3",deportes-3
