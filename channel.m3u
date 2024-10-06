@@ -94,49 +94,74 @@ http://192.168.1.50:6878/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones2" group-title="Ace Stream", tvg-name="campeones2",campeones2
 http://192.168.1.50:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones3" group-title="Ace Stream", tvg-name="campeones3",campeones3
-^CTraceback (most recent call last):
-  File "/media/get_links.py", line 55, in <module>
-    req = requests.head(elink, allow_redirects=False, timeout=10 )
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/requests/api.py", line 100, in head
-    return request("head", url, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/requests/api.py", line 59, in request
-    return session.request(method=method, url=url, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
-    resp = self.send(prep, **send_kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
-    r = adapter.send(request, **kwargs)
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
-    resp = conn.urlopen(
-           ^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 789, in urlopen
-    response = self._make_request(
-               ^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
-    self._validate_conn(conn)
-  File "/usr/local/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1095, in _validate_conn
-    conn.connect()
-  File "/usr/local/lib/python3.12/site-packages/urllib3/connection.py", line 730, in connect
-    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
-                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/urllib3/connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
-    ssl_sock = ssl_wrap_socket(
-               ^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 469, in ssl_wrap_socket
-    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/site-packages/urllib3/util/ssl_.py", line 513, in _ssl_wrap_socket_impl
-    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/ssl.py", line 455, in wrap_socket
-    return self.sslsocket_class._create(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.12/ssl.py", line 1041, in _create
-    self.do_handshake()
-  File "/usr/local/lib/python3.12/ssl.py", line 1319, in do_handshake
-    self._sslobj.do_handshake()
-KeyboardInterrupt
+http://192.168.1.50:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones4" group-title="Ace Stream", tvg-name="campeones4",campeones4
+http://192.168.1.50:6878/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones5" group-title="Ace Stream", tvg-name="campeones5",campeones5
+http://192.168.1.50:6878/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones6" group-title="Ace Stream", tvg-name="campeones6",campeones6
+http://192.168.1.50:6878/ace/manifest.m3u8?id=64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones-o7" group-title="Ace Stream", tvg-name="campeones-o7",campeones-o7
+http://192.168.1.50:6878/ace/manifest.m3u8?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones8" group-title="Ace Stream", tvg-name="campeones8",campeones8
+http://192.168.1.50:6878/ace/manifest.m3u8?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones9" group-title="Ace Stream", tvg-name="campeones9",campeones9
+http://192.168.1.50:6878/ace/manifest.m3u8?id=7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones10" group-title="Ace Stream", tvg-name="campeones10",campeones10
+http://192.168.1.50:6878/ace/manifest.m3u8?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones11" group-title="Ace Stream", tvg-name="campeones11",campeones11
+http://192.168.1.50:6878/ace/manifest.m3u8?id=e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones12" group-title="Ace Stream", tvg-name="campeones12",campeones12
+http://192.168.1.50:6878/ace/manifest.m3u8?id=bb50397b3f49167eed95264005fae851baa7e3ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones-13" group-title="Ace Stream", tvg-name="campeones-13",campeones-13
+http://192.168.1.50:6878/ace/manifest.m3u8?id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones1-o2" group-title="Ace Stream", tvg-name="campeones1-o2",campeones1-o2
+http://192.168.1.50:6878/ace/manifest.m3u8?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones2-02" group-title="Ace Stream", tvg-name="campeones2-02",campeones2-02
+http://192.168.1.50:6878/ace/manifest.m3u8?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones3-02" group-title="Ace Stream", tvg-name="campeones3-02",campeones3-02
+http://192.168.1.50:6878/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones1-o3" group-title="Ace Stream", tvg-name="campeones1-o3",campeones1-o3
+http://192.168.1.50:6878/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones1-o4" group-title="Ace Stream", tvg-name="campeones1-o4",campeones1-o4
+http://192.168.1.50:6878/ace/manifest.m3u8?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/champions.png" tvg-id="campeones1-o5" group-title="Ace Stream", tvg-name="campeones1-o5",campeones1-o5
+http://192.168.1.50:6878/ace/manifest.m3u8?id=6b56c1de436327b49e429a702e81e9269630e37a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/golf.png" tvg-id="golf-c1" group-title="Ace Stream", tvg-name="golf-c1",golf-c1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/golf.png" tvg-id="golf-c2" group-title="Ace Stream", tvg-name="golf-c2",golf-c2
+http://192.168.1.50:6878/ace/manifest.m3u8?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/golf.png" tvg-id="m-golf1-2" group-title="Ace Stream", tvg-name="m-golf1-2",m-golf1-2
+http://192.168.1.50:6878/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/golf.png" tvg-id="golfop3" group-title="Ace Stream", tvg-name="golfop3",golfop3
+http://192.168.1.50:6878/ace/manifest.m3u8?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/tennis.png" tvg-id="tennis-c1" group-title="Ace Stream", tvg-name="tennis-c1",tennis-c1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/erosport.png" tvg-id="eurosport-c1" group-title="Ace Stream", tvg-name="eurosport-c1",eurosport-c1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="euro-5" group-title="Ace Stream", tvg-name="euro-5",euro-5
+http://192.168.1.50:6878/ace/manifest.m3u8?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="euros-9" group-title="Ace Stream", tvg-name="euros-9",euros-9
+http://192.168.1.50:6878/ace/manifest.m3u8?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/erosport.png" tvg-id="eurosport-c2" group-title="Ace Stream", tvg-name="eurosport-c2",eurosport-c2
+http://192.168.1.50:6878/ace/manifest.m3u8?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="euros-6" group-title="Ace Stream", tvg-name="euros-6",euros-6
+http://192.168.1.50:6878/ace/manifest.m3u8?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="euro-3" group-title="Ace Stream", tvg-name="euro-3",euro-3
+http://192.168.1.50:6878/ace/manifest.m3u8?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="euros-7" group-title="Ace Stream", tvg-name="euros-7",euros-7
+http://192.168.1.50:6878/ace/manifest.m3u8?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="euros-4" group-title="Ace Stream", tvg-name="euros-4",euros-4
+http://192.168.1.50:6878/ace/manifest.m3u8?id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="euros-8" group-title="Ace Stream", tvg-name="euros-8",euros-8
+http://192.168.1.50:6878/ace/manifest.m3u8?id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="tdp-c1" group-title="Ace Stream", tvg-name="tdp-c1",tdp-c1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="launo-c1" group-title="Ace Stream", tvg-name="launo-c1",launo-c1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="2s3us9u8" group-title="Ace Stream", tvg-name="2s3us9u8",2s3us9u8
+http://192.168.1.50:6878/ace/manifest.m3u8?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="launo-c1-o2" group-title="Ace Stream", tvg-name="launo-c1-o2",launo-c1-o2
+http://192.168.1.50:6878/ace/manifest.m3u8?id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hazofaifo/logos/main/movistarplus.png" tvg-id="realm-tv1" group-title="Ace Stream", tvg-name="realm-tv1",realm-tv1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
