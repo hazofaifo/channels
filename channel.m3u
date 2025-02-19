@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DAZN F1 1080 (FÃ³rmula 1)" tvg-name="DAZN F1 1080 (FÃ³rmula 1) 1",DAZN F1 1080 (FÃ³rmula 1) 1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-id="DAZN F1 1080 (FÃ³rmula 1)" tvg-name="DAZN F1 1080 (FÃ³rmula 1) 1",DAZN F1 1080 (FÃ³rmula 1) 1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-id="DAZN F1 1080 (FÃ³rmula 1)" tvg-name="DAZN F1 1080 (FÃ³rmula 1) 1",DAZN F1 1080 (FÃ³rmula 1) 1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-id="DAZN F1 720 (FÃ³rmula 1)" tvg-name="DAZN F1 720 (FÃ³rmula 1) 1",DAZN F1 720 (FÃ³rmula 1) 1
+http://192.168.1.50:6878/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-id="M. LaLiga 1080P" tvg-name="M. LaLiga 1080P 1",M. LaLiga 1080P 1
 http://192.168.1.50:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio" tvg-name="M. LaLiga 1080 MultiAudio 1",M. LaLiga 1080 MultiAudio 1
