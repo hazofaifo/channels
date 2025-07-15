@@ -593,17 +593,17 @@ http://192.168.1.50:6878/ace/manifest.m3u8?id=fcd7621df513f600652b4813d5d8fd1dae
 http://192.168.1.50:6878/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/419.png" tvg-id="Ziggo.Sport.6.nl" group-title="Eurosport" tvg-id="Ziggo.Sport.6.nl"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=35e17cc84abc5e393b5acd688536a9681105f2d5
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=2f3a139d7a2ca1f305ae8cd67444b961d468a9d4
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT" tvg-id="Antena 3 HD"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
@@ -623,55 +623,55 @@ http://192.168.1.50:6878/ace/manifest.m3u8?id=5c02eda19460d039aee54b6cdfd89ec5b0
 http://192.168.1.50:6878/ace/manifest.m3u8?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="TDT" tvg-id="Teledeporte"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png"  group-title="TDT"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="TDT"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png"  group-title="TDT"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="TDT"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png"  group-title="TDT"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="TDT"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png"  group-title="TDT"
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png" group-title="TDT"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=9efe41de7f5dcafc9395591feb959832e09683ff
-#EXTINF:-1 tvg-logo="https://static.motor.es/f1/fichas/contenido/carlos-sainz/min280x180/carlos-sainz2024_1708674925.jpg"  group-title="F1"
+#EXTINF:-1 tvg-logo="https://static.motor.es/f1/fichas/contenido/carlos-sainz/min280x180/carlos-sainz2024_1708674925.jpg" group-title="F1"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=ddc3b1c8297d57d8096ba20edc1da41eb149a167
-#EXTINF:-1 tvg-logo="https://static.motor.es/f1/fichas/contenido/fernando-alonso/min280x180/fernando-alonso2024_1708675566.jpg"  group-title="F1"
+#EXTINF:-1 tvg-logo="https://static.motor.es/f1/fichas/contenido/fernando-alonso/min280x180/fernando-alonso2024_1708675566.jpg" group-title="F1"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=a97ccf39516515e7812d5c04dcacdf748f3545e8
-#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=2e764a7ad94bcb4e67e82369b7aa982c6b2751b4
-#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=b926e6a6ab1d5dc855ce2d3dbeb5e97b9d42b304
-#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=9798df57203105309f47b1aa81b6badf00fd0f35
-#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png"  group-title="Motor"
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Motor"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=de3ae87e72054cf3ce75268753845c97b931ad58
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png"  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=cb18d080d81f7fccf26b7723ce6a5d86d31220db
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/170px-2._Bundesliga_logo.svg.png"  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/170px-2._Bundesliga_logo.svg.png" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png"  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=7a9b22bee11d26b3f5bbd52e0230e19706f593eb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" tvg-id="Canal Hollywood HD" group-title="Futbol Internacional" tvg-id="Canal Hollywood HD"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=ebc2e767633cf272abf749a8884751f1f177c8b3
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=8a0a371e2cda52d162c960400e9f55fffddfd46d
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="Futbol Internacional" tvg-id="UK | Sky Sport Arena"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="Futbol Internacional" tvg-id="UK | Sky Sport Cricket"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="Futbol Internacional" tvg-id="Tennis Channel"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=3f23e772f30c5f127609cbef8aa904219b63caef
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=999db87cb68b0a671d61a858da7d79dd97b0c0a4
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
-#EXTINF:-1 tvg-logo=""  group-title="Futbol Internacional"
+#EXTINF:-1 tvg-logo="" group-title="Futbol Internacional"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=0ce88d9e7273fddbc9b49f578b6b255513697139
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1"
 http://192.168.1.50:6878/ace/manifest.m3u8?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
