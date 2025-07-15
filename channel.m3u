@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Espana" tvg-id="M LaLiga TV HD"
-http://192.168.1.50:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#http://192.168.1.50:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
