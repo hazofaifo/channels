@@ -1,5 +1,4 @@
-#EXTM3U, other
-#EXTM3U, other
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 HD,Dazn 1 1080
 http://192.168.1.50:6878/ace/manifest.m3u8?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 HD,Dazn 1 1080
